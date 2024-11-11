@@ -1,0 +1,9 @@
+@media only screen and (max-width:520px){
+    .right-section h2{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .order-item p{
+        font-size: 12px;
+    }
+}
